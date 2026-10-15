@@ -28,10 +28,10 @@ I like building end-to-end AI solutions: from data collection and preprocessing 
   Repo: https://github.com/sstraccialini/Pydeia
 
 - **RepoSummarizer**: Tool that generates documentation/summaries/visual overviews for public GitHub repos using local LLMs (privacy + controllability) and caching.  
-  Repo: 
+  Repo: https://github.com/sstraccialini/repo-summarizer
 
 - **Automatic Quiz Scoring**: Led an end-to-end pipeline to grade handwritten answer sheets (CV + ML, achieved ~80% accuracy).  
-  Repo: 
+  Repo: https://github.com/Hephaestus-AI-Association/Automatic-Quiz-Scoring
 
 ## Experience & leadership
 - **Amazon — Software Development Engineer Intern (2026)**: Built and deployed an end-to-end agentic AI system to production in 2 months for global fulfillment optimization.
